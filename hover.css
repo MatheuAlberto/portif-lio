@@ -1,0 +1,30 @@
+header>p:hover{
+    animation: rot-log 0.8s ease 1.5s infinite alternate;
+    cursor: pointer;
+}
+header > ul > li> a:hover{
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    outline: none;
+}
+main > #man_esquerdo > a:hover{
+    background-color: white;
+    color: black;
+}
+
+#portifolios>#slid>.slide>#manual-navigation>.manual-btn:hover{
+    background-color: white;
+}
+#img_principal:hover {
+    transform: scale(1.2);
+
+}
+#informacoes>#img_secundária>img:hover{
+    transform: scale(1.1);
+}
+#men>ul>li>a:hover{
+    background-color: aliceblue;
+    border-radius: 10px;
+}
